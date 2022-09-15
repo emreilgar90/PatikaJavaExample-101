@@ -1,4 +1,4 @@
-package PatikaSiniflarOrnek;
+package MaasHesaplamaOdev;
 public class Test {
 	public static void main(String[] args) {
 		calisan kemal = new calisan("Kemal", "Unakıtan", 2000, 45, 1985,0);
