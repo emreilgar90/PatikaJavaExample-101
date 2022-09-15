@@ -1,6 +1,6 @@
 package PatikaSiniflarOrnek;
 
-import maasHesaplama.main;
+
 
 public class Test {
 	public static void main(String[] args) {
